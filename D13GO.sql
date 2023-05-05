@@ -1,0 +1,1 @@
+SELECT * FROM db_angolatarde.tb_angolatarde;
